@@ -1,5 +1,5 @@
-# ASL_CNN
-
+# Parametric cerebral blood flow and arterial transit time mapping using a 3D convolutional neural network
+Paper:  https://doi.org/10.1002/mrm.29674
 
 The process is divided into two steps
  - Preprocessing
